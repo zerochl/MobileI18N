@@ -1,0 +1,715 @@
+English
+Key to Digital Life
+Create MYKEY Account
+Import MYKEY Account
+Continue
+Restart
+Cancel
+·  v%@  ·
+Import MYKEY Account
+Please select a login method
+By device
+By recovery phrase
+No recovery phrase
+Enter Invite Code
+Invite Code
+Each code can be used to create account only once
+Invalid invite code
+Next
+As an ordinary user
+I’m not familiar with private keys
+As a tech-savvy user
+I fully understand private keys
+Set Account Name
+New EOS Account
+Must be 12 characters, a-z, 1-5
+Incorrect format
+The account name is used
+The account name is available
+Detecting duplicate name...
+Detection failed
+Retry
+I agree to
+&#160;“User Agreement”
+Next
+Set Password
+New Password
+At least 8 characters consisting of letters, numbers and symbols
+At least 8 characters consisting of letters, numbers and symbols
+Confirm New Password
+Password doesn’t match
+L
+M
+H
+Next
+About Recovery Phrase
+Make at least TWO paper copies, store them separately.
+Do not store it in the phone, such as text, photo or video.
+Do not tell ANYONE, including family.
+Please Wait %@s
+Confirm
+Copy Recovery Phrase
+99&& of people don't have a blockchain account, you will be the 1&& when complete this step.
+Make 2 copies in order and store them separately.
+I want to use English phrase
+I want to use Chinese phrase
+Next
+Skip
+Confirm Recovery Phrase
+Click words to ensure the phrase is correct and stored properly
+Confirm
+Skip
+Incorrect recovery phrase
+Copy Recovery Phrase Later
+You can do it through Me > Security > Export Recovery Phrase
+Cancel
+Confirm
+Activate Account
+EOS Account: %@
+Free activation
+Get a free account and network credits after verification
+Use activation code
+MYKEY Lab will never have user identity no matter how you activate.
+Do you want to quit?
+You can continue to create account later
+Cancel
+Quit
+Creating account
+Please wait
+Account is created
+EOS Account
+Welcome to the world of Blockchain
+Enter
+Failed to create account
+Please try again
+Retry
+The name is used
+Try other names
+Invite code is invalid
+Please enter invite code
+Back
+Turn on Fingerprint Payment
+Substitute fingerprint for password to transfer and play dapps
+Cancel
+Turn On
+EOS Wallet
+Total Assets (%@)
+Receive
+Transfer
+Assets
+Add assets
+≈ $%@
+≈ ¥%@
+¥
+$
+Assets
+Dapps
+Messages
+Me
+Transactions
+success
+failure
+confirming %@&&
+No data
+Receive
+Transfer
++%@
+-%@
+Transaction Details
+SUCCESS
+FAILURE
+CONFIRMING
+Amount
+To
+From
+Credit Cost
+Transaction ID
+Block Number
+Transaction Time
+Memo
+Your Account
+Transfer
+Account Transfer
+Scan
+Recent Transfer
+No data
+Transfer
+Recipient
+Account does not exist
+Cannot transfer to yourself
+Amount
+Balance: %@
+Transfer All
+%@ transfer only supports %@ decimals
+Memo(Optional)
+Memo is required for depositing onto exchanges
+Next
+Select an Asset
+Transfer Details
+To
+
+Memo: %@
+All
+Next
+Estimated cost ~ $%@ (Balance $%@)
+Estimated cost ~ $%@ (Balance $%@) Click to buy
+Passwordless Payment
+Please Authenticate
+Touch the fingerprint sensor
+Tap to use %@
+Cannot recognize fingerprint
+No more authentication before exiting app
+Cancel
+Enter Password
+Please Authenticate
+Account Password
+Wrong password
+No more authentication before exiting app
+Cancel
+Confirm
+Forgot password?
+Cancel
+Reset Password
+Search for token
+Edit
+Done
+Search for token
+Cancel
+No results found
+Scan QR code
+Album
+Invalid QR code
+Search for dapp or enter URL
+Recently Used
+Featured
+Find More
+hot
+new
+updated
+Action cancelled
+Search for dapp or enter URL
+Cancel
+No results found
+Open Webpage
+Refresh
+Pin
+Unpin
+Cancel
+Cannot open page
+Dapp Authorization
+Account
+Action
+Confirm
+Action Details
+To
+
+Memo: %@
+All
+Next
+Estimated cost ~ $%@ (Balance $%@)
+Estimated cost ~ $%@ (Balance $%@) Click to buy
+No more confirmation before exiting DAPP
+Passwordless Payment
+Action Details
+More
+No more confirmation before exiting DAPP
+Passwordless Confirm
+Next
+Messages
+Transaction Records
+Account Messages
+System Messages
+Transaction Records
+My Account
+Network Credits
+Emergency Contacts
+Security
+Settings
+Fingerprint Payment
+Language
+Currency
+Version
+环境选择
+Touch the fingerprint sensor
+Cancel
+You haven't registered fingerprint
+Do you want to set it now?
+Cancel
+Setting
+You haven’t enable %@. Please enable it in system settings.
+Ok
+Language
+简体中文
+English
+Currency
+CNY
+USD
+Emergency Contacts
+History
+Status
+Normal
+To be confirmed
+To be effective
+Removing
+Created Time
+Contact Information
+Remove
+Cancel Removal
+Cancel
+Awaiting confirmation
+Effective in %@
+Expire in %@
+History
+Add
+Security
+Manage Account
+Available
+Pending
+Not available
+Not available
+Reset Password
+Synchronize to New Device
+Export Recovery Phrase
+Manage Account
+Requests
+Available
+Not available
+Not available
+Pending
+Unfreeze to allow access to the account
+Re-grant account to use
+Please wait until new permissions take effect
+Replace Recovery Phrase
+Re-grant
+Freeze Account
+Unfreeze Account
+Requests in progress
+Replace recovery phrase
+Re-grant
+Recover account
+Freeze account
+Unfreeze account
+Add emergency contact
+Remove emergency contact
+Account is unfreezing
+Account is available, no need to unfreeze
+Recovery phrase is replaced successfully. Please use new one.
+Requests
+All
+Ongoing
+Done
+Cancelled
+Replace Recovery Phrase
+Re-grant
+Unfreeze Account
+Restore Account
+You haven't backed up the recovery phrase
+Do you want to export?
+Cancel
+Export
+Verify Recovery Phrase
+Please enter the recovery phrase in order
+Enter recovery phrase
+Confirm
+Cancel
+I have no recovery phrase
+Next
+%@/%@ words
+Wrong recovery phrase
+Ongoing Requests
+All requests below will be cancelled before initiating a new request
+You cannot initiate a new request before previous request is done
+Next
+Submit Request
+Submit
+Estimated cost ~ $%@ (Balance $%@)
+Estimated cost ~ $%@ (Balance $%@) Click to buy
+Request is sent
+Back
+Request Details
+Verify
+Normal Mode
+Recovery phrase is required. Wait %@ days.
+Expedited Mode
+Recovery phrase and emergency contact are required. Take effect instantly.
+Emergency Mode
+Emergency contact is required. Wait 30 days.
+Replace recovery phrase
+Replace recovery phrase - Normal
+Replace recovery phrase - Expedited
+Replace recovery phrase - Emergency
+Re-grant
+Re-grant - Normal
+Re-grant - Expedited
+Restore account
+Restore account - Normal
+Restore account - Expedited
+Unfreeze account
+Unfreeze account - Normal
+Unfreeze account - Expedited
+Freeze account
+Freeze account
+Add emergency contact
+Remove emergency contact
+Cancel re-grant
+Cancel unfreeze account
+Cancel restore account
+Cancel replace recovery phrase
+Cancel add emergency contact
+Cancel remove emergency contact
+Created
+Sent
+Done
+Cancelled
+Cancelling
+Sending
+Pending
+Executed
+Failed to send
+Take effect in %@
+Request failed
+D
+H
+M
+hour
+minute
+Now
+%@m ago
+Today %@:%@
+Yesterday %@:%@
+%@-%@
+%@-%@-%@
+1 minute
+Request Details
+Take effect in
+Type
+Number
+Total Credit Cost
+Txn Details
+Credit Cost: $%@
+Credit Cost: $%@(refunded)
+%@ - Re-grant
+%@ - Cancel %@
+%@ - Replace recovery phrase
+%@ - Restore account
+%@ - Freeze account
+%@ - Unfreeze account
+Cancel Request
+replace recovery phrase
+re-grant
+restore account
+unfreeze account
+Unable to cancel request which is about to be effective soon
+$ %@
+Reset Password
+Old Password
+Use password
+Use recovery phrase
+Switch to use recovery phrase
+Switch to use password
+Enter recovery phrase
+No recovery phrase
+Next
+Set New Password
+Confirm
+Failed to reset password
+Password reset done
+About Synchronization
+Use same password and recovery phrase in the new device
+Do not save QR code in any forms
+Please continue in a safe place
+Continue
+Sync to New Device
+Please scan all QR codes with another device
+Next
+Previous
+Sync from other device
+Scan all QR codes
+QR Code %@ was scanned
+Next
+%@/%@
+Password or QR codes is incorrect
+Invalid QR code
+QR codes expired, please quit and try again
+Please upgrade MYKEY to the latest version on both devices
+Synchronization Done
+You have successfully synchronized your account from the original device. The new device password is the same as the original one, and the original device can still be used normally.
+Sending…
+Please wait
+Click again to exit
+Coming soon
+Wrong password
+Transferring to this exchange is not supported
+Send transaction failed, please try again.
+Server error, please try again later.
+请勿重复认证
+请勿重复注册
+Server error, please try again later.
+Wrong format
+Verification too frequent
+Verification is bound
+Copied
+Please reset account
+Please unfreeze account
+Pull to refresh
+Release to refresh
+Loading
+Loading
+Loading completed
+Please wait
+Done
+Failed
+Loading…
+No more data
+New version found
+Update
+Install
+Updating
+Failed to download update files
+Download successful
+Updating %@&&
+Downloading version: %@
+Reboot
+Close
+Please try again later
+Cancel
+Confirm
+Please try again later
+Please try again later
+Your device doesn’t support fingerprint
+Cannot recognize the fingerprint
+The feature is not supported by this device
+No Emergency Contact
+Emergency Contact can help you replace recovery phrase and finish account management request instantly
+Cancel
+Add
+No Permission
+You need to request permission from system setting
+Cancel
+Setting
+Please grant write permission to save qr code
+Please grant camera permission for verification
+Please grant camera permission to load qrcode image
+Confirm to Export
+You cannot export again once you confirm to export
+Cancel
+Confirm
+Credit Detail
+Network credits is paid for the cost from using blockchains
+All
+Expense
+Income
+billing
+Expense Details
+Income Details
+Network Credits
+Type
+Date
+Related Record
+transfer
+use dapp
+account request
+purchase
+refund
+system reward
+Re-Login
+No data
+No data
+No data
+About Us
+About Us
+Key To Digital Life
+Current version %@
+Terms of Service & Privacy Policy
+Help Center
+Contact Information
+Submit Request
+Check Update
+Search History
+Untitled
+Disclaimer
+After you access a third-party dapp, you acknowledge that “MYKEY Term of Service” and “MYKEY Privacy Policy” will no longer apply. We shall not be held liable for any risks, responsibilities, losses or expenses occurred due to your operation on the third-party dapp.
+Cancel
+Agree
+Clear Cache
+Are you sure to clear the cache?
+Cancel
+Confirm
+Delete Account
+All local account data will be cleared.
+Recovery phrase has not been exported
+Please export recovery phrase before deleting account
+Cancel
+Export
+Delete Account
+Restore account by recovery phrase to sign in. Wait up to 7 days.
+Cancel
+Continue
+Delete Account
+Confirm to logout and delete your account?
+DELETE
+Cancel
+Testing quota was full
+Return
+Fingerprint payment was off
+The fingerprint registered in the device has changed. Please enter the password to enable it again.
+FaceID payment was off
+The FaceID registered in the device has changed. Please enter the password to enable it again.
+Enter Password
+Confirm
+Skip
+Pending Verification
+Proceeding
+Agreed
+Rejected
+Unable to cancel request initiated within 3 days
+Unable to verify
+Return
+Unable to continue
+Please use recovery phrase to cancel all the other pending request
+You do not have any emergency contact
+You have not created any MYKEY account
+Cancel
+View
+Select Emergency Contact
+Need %@ contact(s) to agree
+Click to verify your identity
+Proceeding, please wait
+Approved
+Rejected, verify again
+Verification failed
+Please verify identity on weekdays %@-%@
+We have received your request
+PROCESSING NOW
+You can get verified by %@ more contact(s)
+You have completed all verifications
+Return
+Missing KYC information. Please contact MYKEY Lab to proceed.
+Ok
+Awaiting contacts proceed
+Unable to cancel request initiated within 3 days
+Unable to cancel request which is about to be effective soon
+Failed to submit request. Please try again.
+Video Verification
+Calling operator\nPlease wait...
+Connected
+Service busy, please try again later
+Verification completed
+No password
+No password
+Please go to the settings to delete account, then sign in and choose to replace the recovery phrase with the emergency contact.
+Cancel
+Delete Account
+Video calling
+You cannot get verified from the emergency contact if quit now
+Cancel
+Quit
+Please wait until new recovery phrase takes effect
+Too many times for liveness check, please try again tomorrow.
+Send %@ to %@
+This application requires permission from %@
+Call contract action %@ -> %@
+Click here if any problem occurred
+You have not created any MYKEY account
+Create MYKEY Account
+Cancel
+Continue
+%@ wants to bind your account
+account
+Auth Bind
+Failed in authorization, please check MYKEY account status.
+Authorized
+Cancel
+Perform Operation
+Auth Perform
+Send %@ to %@ (%@)
+This application requires permission from %@
+Action %@ -> %@ (%@)
+Cancel
+Login Account
+Auth Login
+The application will gain the following permission
+• Get open information of the account %@
+The MYKEY account has been bound to another %@ account
+The %@ account has been bound to another MYKEY account
+The %@ account has not been bound to MYKEY
+No available MYKEY account
+Stay at MYKEY
+Return
+QR code expired
+MYKEY has not been installed yet
+About MYKEY
+No Emergency Contact
+Emergency Contact can help you replace recovery phrase and finish account management request instantly
+Feature of adding contact is not ready yet
+The memo is filled according to the last transaction. Please confirm first.
+This is a contract account, please confirm that memo is required or not.
+Immediate
+Up to 7 days
+30 days
+How should I import
+Please import by recovery phrase if you have it
+Cancel
+Continue
+Requires&#160;
+video verification
+ID card
+&#160;and&#160;
+Service time: %@-%@ weekdays
+Please prepare the ID card which is required during the verification
+Cancel
+Continue
+Details
+Verify
+Raw data of contract action
+Replacing recovery phrase,
+Re-granting account,
+Unfreezing account,
+Restoring account,
+&#160;click to verify identity
+&#160;please await further proceeding
+&#160;effective on %@
+Click to re-grant to use this account
+The account is at risk, click to manage
+%@ pending request, click to manage
+&#160;please wait&#8230;
+Success
+Warning
+Account Deleted
+View
+Close
+Verify
+Re-grant
+The account %@ is under restoring and cannot be used meanwhile.
+Please identify yourself to your emergency contact to restore the account %@.
+The account %@ is restored and can be used now.
+Restoring account for %@ was initiated on another device. Please check if the recovery phrase is leaked.
+The account %@ is restored. Please import account if you want to use it.
+Please identify yourself to your emergency contact to replace the recovery phrase of %@.
+The recovery phrase of %@ is replaced. Please re-grant account to use it.
+The recovery phrase of %@ is replaced.
+Replacing recovery phrase of %@ was initiated on another device. Please check if the recovery phrase is leaked.
+The recovery phrase of %@ is replaced. Please import account if you want to use it.
+The account %@ is re-granted and can be used now.
+Re-granting account of %@ was initiated on another device. Please check if the recovery phrase is leaked.
+The account %@ is re-granted. Please import account if you want to use it.
+The account %@ is unfreezed and can be used now.
+Unfreezing account of %@ was initiated on another device. Please check if the recovery phrase is leaked.
+The account %@ is unfreezed. Please check if the recovery phrase is leaked.
+The account %@ is frozen and unable to be used.
+No verification, no default emergency contact
+Use Activation Code
+Please enter activation code
+Activate
+How to get code
+The code not exist
+Free quota is full, please use activation code to open
+Account is frozen
+Unfreeze account first if you want to use it
+Cancel
+Unfreeze
+Transaction overtime, please try again
+Restoring account
+You are unable to transfer or use dapp until account is restored.
+Cancel
+Examine
