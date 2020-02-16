@@ -1,184 +1,121 @@
 English
-Key to Digital Life
-Create MYKEY Account
-Import MYKEY Account
-Continue
-Restart
-Cancel
-·  v%@  ·
-Import MYKEY Account
-Please select a login method
-By device
-By recovery phrase
-No recovery phrase
-Enter Invite Code
-Invite Code
-Each code can be used to create account only once
-Invalid invite code
-Next
-As an ordinary user
-I’m not familiar with private keys
-As a tech-savvy user
-I fully understand private keys
-Set Account Name
-New EOS Account
-Must be 12 characters, a-z, 1-5
-Incorrect format
-The account name is used
-The account name is available
-Detecting duplicate name...
-Detection failed
-Retry
-I agree to
-&#160;“User Agreement”
-Next
-Set Password
-New Password
-At least 8 characters consisting of letters, numbers and symbols
-At least 8 characters consisting of letters, numbers and symbols
-Confirm New Password
-Password doesn’t match
-L
-M
-H
-Next
-About Recovery Phrase
-Make at least TWO paper copies, store them separately.
-Do not store it in the phone, such as text, photo or video.
-Do not tell ANYONE, including family.
-Please Wait %@s
-Confirm
-Copy Recovery Phrase
-99&& of people don't have a blockchain account, you will be the 1&& when complete this step.
-Make 2 copies in order and store them separately.
-I want to use English phrase
-I want to use Chinese phrase
-Next
-Skip
-Confirm Recovery Phrase
-Click words to ensure the phrase is correct and stored properly
-Confirm
-Skip
-Incorrect recovery phrase
-Copy Recovery Phrase Later
-You can do it through Me > Security > Export Recovery Phrase
-Cancel
-Confirm
-Activate Account
-EOS Account: %@
-Free activation
-Get a free account and network credits after verification
-Use activation code
-MYKEY Lab will never have user identity no matter how you activate.
-Do you want to quit?
-You can continue to create account later
-Cancel
-Quit
-Creating account
-Please wait
-Account is created
-EOS Account
-Welcome to the world of Blockchain
-Enter
-Failed to create account
-Please try again
-Retry
-The name is used
-Try other names
-Invite code is invalid
-Please enter invite code
-Back
-Turn on Fingerprint Payment
-Substitute fingerprint for password to transfer and play dapps
-Cancel
-Turn On
-EOS Wallet
+Assets
+App
+Me
 Total Assets (%@)
 Receive
-Transfer
-Assets
+Send
+Transactions
+All Assets
 Add assets
 ≈ $%@
 ≈ ¥%@
+≈ ₩%@
 ¥
 $
-Assets
-Dapps
-Messages
-Me
-Transactions
+₩
+Please create or import account
+%@ Assets
+Getting started
+Scan QR code
+Album
+Invalid QR code
+Receive
+Switch
+copy receipt address
+Send
+To Account
+Scan
+Latest Transfer
+No data
+Transaction Records
+No data
+Enter token or contract address
+Edit
+Done
+Enter token or contract address
+Cancel
+No results found
+Transaction Records
 success
 failure
 confirming %@&&
 No data
 Receive
-Transfer
+Send
 +%@
 -%@
+pending
 Transaction Details
 SUCCESS
-FAILURE
+Transaction Failed
 CONFIRMING
 Amount
-To
-From
+Recipient Account
+Payment Account
 Credit Cost
 Transaction ID
 Block Number
 Transaction Time
 Memo
-Your Account
-Transfer
-Account Transfer
-Scan
-Recent Transfer
-No data
-Transfer
-Recipient
+View transaction on blockchain explorer
+Send
+Recipient Account
 Account does not exist
-Cannot transfer to yourself
+A maximum of 12 characters length consisting of lowercase letter a-z and number 1-5
+Address format is not correct
+Cannot send to yourself
 Amount
 Balance: %@
-Transfer All
+Max
 %@ transfer only supports %@ decimals
 Memo(Optional)
 Memo is required for depositing onto exchanges
 Next
+The memo is filled according to the last transaction. Please confirm first.
+This is a contract account, please confirm that memo is required or not.
+Transfer Speed
+Slow
+Average
+Fast
+More Options
+Data
+Faster transfer requires more network credits
+choose asset
+PLEASE READ BEFORE SENDING ETHEREUM ASSETS >
 Select an Asset
+Latest Transfer
 Transfer Details
 To
 
 Memo: %@
 All
 Next
-Estimated cost ~ $%@ (Balance $%@)
-Estimated cost ~ $%@ (Balance $%@) Click to buy
+Cost:%@ / Balance:%@
+Cost:%@ / Balance:%@ Top-up
 Passwordless Payment
+Send %@ to %@
+Speed
+Cost
 Please Authenticate
-Touch the fingerprint sensor
+Verify fingerprint
 Tap to use %@
 Cannot recognize fingerprint
 No more authentication before exiting app
 Cancel
+Please verify your fingerprint
+Please verify your FaceID
 Enter Password
 Please Authenticate
-Account Password
-Wrong password
+MYKEY Password
+Wrong password. The correct password should be 8-20 characters in length and a combination of 2 or more types in number, capital or lowercase letters and symbols.
 No more authentication before exiting app
 Cancel
 Confirm
+No password
 Forgot password?
 Cancel
 Reset Password
-Search for token
-Edit
-Done
-Search for token
-Cancel
-No results found
-Scan QR code
-Album
-Invalid QR code
 Search for dapp or enter URL
 Recently Used
 Featured
@@ -186,106 +123,141 @@ Find More
 hot
 new
 updated
-Action cancelled
+Disclaimer
+After you access a third-party dapp, you acknowledge that "MYKEY Term of Service" and "MYKEY Privacy Policy" will no longer apply. We shall not be held liable for any risks, responsibilities, losses or expenses occurred due to your operation on the third-party dapp.
+Cancel
+Agree
+Please upgrade MYKEY to use the dapp
+Cancel
+Install
 Search for dapp or enter URL
 Cancel
 No results found
 Open Webpage
+Search History
+Untitled
 Refresh
 Pin
 Unpin
 Cancel
 Cannot open page
-Dapp Authorization
+Copy link
+Share
+Application Authorization
 Account
 Action
 Confirm
+This application requires permission from %@
+Action cancelled
+Action Details
+More
+Call contract action %@ -> %@
+No more confirmation before exiting DAPP
+Passwordless Confirm
+Next
 Action Details
 To
 
 Memo: %@
 All
 Next
-Estimated cost ~ $%@ (Balance $%@)
-Estimated cost ~ $%@ (Balance $%@) Click to buy
+Cost:%@ / Balance:%@
+Cost:%@ / Balance:%@ Top-up
 No more confirmation before exiting DAPP
 Passwordless Payment
-Action Details
-More
-No more confirmation before exiting DAPP
-Passwordless Confirm
-Next
-Messages
-Transaction Records
-Account Messages
-System Messages
-Transaction Records
-My Account
+Me
 Network Credits
 Emergency Contacts
-Security
+Manage Account
+Switch
+Settings
+Invite Friends
+About Us
+Contact Us
 Settings
 Fingerprint Payment
 Language
 Currency
 Version
-环境选择
-Touch the fingerprint sensor
-Cancel
-You haven't registered fingerprint
-Do you want to set it now?
-Cancel
-Setting
-You haven’t enable %@. Please enable it in system settings.
-Ok
+Environmental Selection
+Clear Cache
 Language
 简体中文
 English
+한국어
+日本語
 Currency
 CNY
 USD
-Emergency Contacts
-History
-Status
-Normal
-To be confirmed
-To be effective
-Removing
-Created Time
-Contact Information
-Remove
-Cancel Removal
+KRW
+JPY
+Are you sure to clear the cache?
 Cancel
-Awaiting confirmation
-Effective in %@
-Expire in %@
-History
-Add
-Security
+Confirm
+Credit Detail
+Network credits is paid for the cost from using blockchains
+All
+Expense
+Income
+billing
+Top Up
+No data
+send asset
+use dapp
+account request
+top up
+refund
+system reward
+transfer out
+transfer in
+enable new feature
+withdraw token
+consumed
+Expense Details
+Income Details
+Network Credits
+Type
+Date
+Related Record
 Manage Account
+Account Name
+Account Status
 Available
 Pending
 Not available
 Not available
-Reset Password
-Synchronize to New Device
+Emergency Contacts
+View and Enable Features
+Sync to the New Phone
+Synchronizing accounts can improve account security
+Change Password
 Export Recovery Phrase
-Manage Account
+Exported
+You have exported the recovery phrase
+Fingerprint Payment
+Delete Account
+All local account data will be cleared
+back up now
+Change Account Name
+Cancel
+Change
+Unnamed Account
+Account Status
 Requests
 Available
 Not available
 Not available
 Pending
 Unfreeze to allow access to the account
-Re-grant account to use
-Please wait until new permissions take effect
+Re-authorize account to use
+Please wait until new authorization take effect
 Replace Recovery Phrase
-Re-grant
+Re-authorize
 Freeze Account
 Unfreeze Account
 Requests in progress
 Replace recovery phrase
-Re-grant
+Re-authorize
 Recover account
 Freeze account
 Unfreeze account
@@ -299,35 +271,7 @@ All
 Ongoing
 Done
 Cancelled
-Replace Recovery Phrase
-Re-grant
-Unfreeze Account
-Restore Account
-You haven't backed up the recovery phrase
-Do you want to export?
-Cancel
-Export
-Verify Recovery Phrase
-Please enter the recovery phrase in order
-Enter recovery phrase
-Confirm
-Cancel
-I have no recovery phrase
-Next
-%@/%@ words
-Wrong recovery phrase
-Ongoing Requests
-All requests below will be cancelled before initiating a new request
-You cannot initiate a new request before previous request is done
-Next
-Submit Request
-Submit
-Estimated cost ~ $%@ (Balance $%@)
-Estimated cost ~ $%@ (Balance $%@) Click to buy
-Request is sent
-Back
-Request Details
-Verify
+No data
 Normal Mode
 Recovery phrase is required. Wait %@ days.
 Expedited Mode
@@ -338,12 +282,12 @@ Replace recovery phrase
 Replace recovery phrase - Normal
 Replace recovery phrase - Expedited
 Replace recovery phrase - Emergency
-Re-grant
-Re-grant - Normal
-Re-grant - Expedited
-Restore account
-Restore account - Normal
-Restore account - Expedited
+Re-authorize
+Re-authorize - Normal
+Re-authorize - Expedited
+Recover account
+Recover account - Normal
+Recover account - Expedited
 Unfreeze account
 Unfreeze account - Normal
 Unfreeze account - Expedited
@@ -351,9 +295,10 @@ Freeze account
 Freeze account
 Add emergency contact
 Remove emergency contact
-Cancel re-grant
+Cancel re-authorization
 Cancel unfreeze account
-Cancel restore account
+Cancel account freezing
+Cancel account recovery
 Cancel replace recovery phrase
 Cancel add emergency contact
 Cancel remove emergency contact
@@ -380,27 +325,183 @@ Yesterday %@:%@
 %@-%@
 %@-%@-%@
 1 minute
+Emergency Contacts assist
+Details
+Verify
 Request Details
 Take effect in
 Type
 Number
 Total Credit Cost
-Txn Details
+View
 Credit Cost: $%@
 Credit Cost: $%@(refunded)
-%@ - Re-grant
+%@ - Re-authorize
 %@ - Cancel %@
 %@ - Replace recovery phrase
-%@ - Restore account
+%@ - Recover account
 %@ - Freeze account
 %@ - Unfreeze account
 Cancel Request
 replace recovery phrase
-re-grant
-restore account
+re-authorize
+recover account
 unfreeze account
 Unable to cancel request which is about to be effective soon
 $ %@
+Pending Verification
+Proceeding
+Agreed
+Rejected
+Unable to cancel request initiated within 3 days
+Unable to verify
+Select Emergency Contact
+Need %@ contact(s) to agree
+Click to verify your identity
+Proceeding, please wait
+Approved
+Rejected, verify again
+Verification failed
+Please verify identity on weekdays %@-%@
+Requires&#160;
+video verification
+ID card
+&#160;and&#160;
+Service time: %@-%@ weekdays
+Please prepare the ID card which is required during the verification
+Cancel
+Continue
+KYC information is missing. Please contact MYKEY Lab to proceed.
+Ok
+Video Verification
+Calling operator\nPlease wait...
+Connected
+Service busy, please try again later
+Verification completed
+Video calling
+You cannot get verified from the emergency contact if quit now
+Cancel
+Quit
+We have received your request
+PROCESSING NOW
+You can get verified by %@ more contact(s)
+You have completed all verifications
+Return
+Replace Recovery Phrase
+Re-authorize
+Unfreeze Account
+Recover Account
+You haven't backed up the recovery phrase
+Do you want to export?
+Cancel
+Export
+Verify Recovery Phrase
+Please enter the recovery phrase in order
+Enter recovery phrase
+Confirm
+Cancel
+I have no recovery phrase
+Next
+%@/%@ words
+Wrong recovery phrase
+Clear
+Ongoing Requests
+All requests below will be cancelled before initiating a new request
+You cannot initiate a new request before previous request is done
+Next
+Unable to cancel request initiated within 3 days
+Unable to cancel request which is about to be effective soon
+Failed to submit request. Please try again.
+Submit Request
+Submit
+Cost:%@ / Balance:%@
+Cost:%@ / Balance:%@ Top-up
+Request is sent
+Return
+Request Details
+Verify
+Return
+Unable to continue
+Please use recovery phrase to cancel all the other pending request
+You do not have any emergency contact
+You have not created any MYKEY account
+Cancel
+View
+No password
+Please go to the settings to delete account, then sign in and choose to replace the recovery phrase with the emergency contact.
+Cancel
+Delete Account
+Replacing recovery phrase,
+In process account re-authorization,
+Unfreezing account,
+In process account recovery,
+&#160;click to verify identity
+&#160;please await further proceeding
+&#160;effective on %@
+Click to “Re-authorize” to use this account
+The account is at risk, click to manage
+%@ pending request, click to manage
+&#160;please wait&#8230;
+Re-Login
+Success
+Warning
+Account Deleted
+View
+Close
+Verify
+Re-authorize
+The account %@ is under restoring and cannot be used meanwhile.
+Please identify yourself to your emergency contact to recover the account %@.
+The account %@ is recovered and can be used now.
+Recovering account for %@ was initiated on another device. Please check if the recovery phrase is leaked.
+The account %@ is recovered. Please import account to further use it.
+Please identify yourself to your emergency contact to replace the recovery phrase of %@.
+The recovery phrase of %@ is replaced. Please re-authorize account to use it.
+The recovery phrase of %@ is replaced.
+Replacing recovery phrase of %@ was initiated on another device. Please check if the recovery phrase is leaked.
+The recovery phrase of %@ is replaced. Please transfer assets if it’s not your action.
+The account %@ is re-authorized and can be used now.
+Account re-authorization of %@ was initiated on another device. Please check if the recovery phrase is leaked.
+The account %@ is not available. Please re-authorize account to furthur use it.
+The account %@ is unfreezed and can be used now.
+Unfreezing account of %@ was initiated on another device. Please check if the recovery phrase is leaked.
+The account %@ is unfreezed. Please check if the recovery phrase is leaked.
+The account %@ is frozen and unable to be used.
+Unable to access
+The local data of %@ was damaged. Please do not use any system deep cleaners, parallel apps or sync tool. Please re-authorize account to use it.
+Emergency Contacts
+No Emergency Contact
+Emergency Contact can help you replace recovery phrase and finish account management request instantly
+Feature of adding contact is not ready yet
+History
+Status
+Normal
+To be confirmed
+To be effective
+Removing
+Created Time
+Contact Information
+Remove
+Cancel Removal
+Cancel
+Awaiting confirmation
+Effective in %@
+Expire in %@
+History
+Add
+Blockchain Address
+Not enabled
+Enabling
+Enable
+About Synchronization
+Use same password and recovery phrase in the new device
+Do not save QR code in any forms
+Please continue in a safe place
+Continue
+Sync to New Device
+Please scan all QR codes with another device
+Next
+Previous
 Reset Password
 Old Password
 Use password
@@ -414,71 +515,65 @@ Set New Password
 Confirm
 Failed to reset password
 Password reset done
-About Synchronization
-Use same password and recovery phrase in the new device
-Do not save QR code in any forms
-Please continue in a safe place
-Continue
-Sync to New Device
-Please scan all QR codes with another device
-Next
-Previous
-Sync from other device
-Scan all QR codes
-QR Code %@ was scanned
-Next
-%@/%@
-Password or QR codes is incorrect
-Invalid QR code
-QR codes expired, please quit and try again
-Please upgrade MYKEY to the latest version on both devices
-Synchronization Done
-You have successfully synchronized your account from the original device. The new device password is the same as the original one, and the original device can still be used normally.
-Sending…
-Please wait
-Click again to exit
-Coming soon
-Wrong password
-Transferring to this exchange is not supported
-Send transaction failed, please try again.
-Server error, please try again later.
-请勿重复认证
-请勿重复注册
-Server error, please try again later.
-Wrong format
-Verification too frequent
-Verification is bound
-Copied
-Please reset account
-Please unfreeze account
-Pull to refresh
-Release to refresh
-Loading
-Loading
-Loading completed
-Please wait
-Done
-Failed
-Loading…
-No more data
-New version found
-Update
-Install
-Updating
-Failed to download update files
-Download successful
-Updating %@&&
-Downloading version: %@
-Reboot
-Close
-Please try again later
+About Recovery Phrase
+Make at least TWO paper copies, store them separately.
+Do not store it in the phone, such as text, photo or video.
+Do not tell ANYONE, including family.
+Please Wait %@s
+Confirm
+Confirm to Export
+You cannot export again once you confirm to export
 Cancel
 Confirm
+Touch the fingerprint sensor
+Cancel
+You haven't registered fingerprint
+Do you want to set it now?
+Cancel
+Setting
+You haven’t enabled %@. Please enable it in system settings.
+Ok
 Please try again later
 Please try again later
 Your device doesn’t support fingerprint
 Cannot recognize the fingerprint
 The feature is not supported by this device
+Recovery phrase has not been exported
+Please export recovery phrase before deleting account
+Cancel
+Export
+Delete Account
+Recover account by recovery phrase to sign in. Wait up to 7 days.
+Cancel
+Continue
+Delete Account
+Confirm to logout and delete your account?
+DELETE
+Cancel
+Invite Friends
+Share successful
+Share failed
+Share cancelled
+Application not installed
+Image saved to %@
+Image saved
+Image save failed
+Wechat
+Moments
+Weibo
+QQ
+Save Image
+My Invite Code
+Cancel
+About
+Key To Digital Life
+Current version %@
+Terms of Service & Privacy Policy
+Help Center
+Contact Information
+Submit Request
+Check Update
+The latest version
 No Emergency Contact
 Emergency Contact can help you replace recovery phrase and finish account management request instantly
 Cancel
@@ -490,146 +585,108 @@ Setting
 Please grant write permission to save qr code
 Please grant camera permission for verification
 Please grant camera permission to load qrcode image
-Confirm to Export
-You cannot export again once you confirm to export
+Please grant permission for application’s safety
+Account is frozen
+Unfreeze account first if you want to use it
 Cancel
-Confirm
-Credit Detail
-Network credits is paid for the cost from using blockchains
-All
-Expense
-Income
-billing
-Expense Details
-Income Details
-Network Credits
-Type
-Date
-Related Record
-transfer
-use dapp
-account request
-purchase
-refund
-system reward
-Re-Login
-No data
-No data
-No data
-About Us
-About Us
-Key To Digital Life
-Current version %@
-Terms of Service & Privacy Policy
-Help Center
-Contact Information
-Submit Request
-Check Update
-Search History
-Untitled
-Disclaimer
-After you access a third-party dapp, you acknowledge that “MYKEY Term of Service” and “MYKEY Privacy Policy” will no longer apply. We shall not be held liable for any risks, responsibilities, losses or expenses occurred due to your operation on the third-party dapp.
+Unfreeze
+Account not available
+Re-authorize the account if you want to use it
 Cancel
-Agree
-Clear Cache
-Are you sure to clear the cache?
+Re-authorize
+Turn on Fingerprint Payment
+Turn on %@
+Substitute fingerprint for password to transfer and use dapps
 Cancel
-Confirm
-Delete Account
-All local account data will be cleared.
-Recovery phrase has not been exported
-Please export recovery phrase before deleting account
+Turn On
+You have not exported recovery phrase
+Recovery phrase is used to import and manage account. Deleting MYKEY app before phrase exported may cause account lose.
+You have no emergency contact, please export the recovery phrase ASAP to avoid losing your account and assets.
+You shall export the recovery phrase before using the feature
 Cancel
 Export
-Delete Account
-Restore account by recovery phrase to sign in. Wait up to 7 days.
-Cancel
-Continue
-Delete Account
-Confirm to logout and delete your account?
-DELETE
-Cancel
-Testing quota was full
-Return
-Fingerprint payment was off
-The fingerprint registered in the device has changed. Please enter the password to enable it again.
-FaceID payment was off
-The FaceID registered in the device has changed. Please enter the password to enable it again.
-Enter Password
-Confirm
-Skip
-Pending Verification
-Proceeding
-Agreed
-Rejected
-Unable to cancel request initiated within 3 days
-Unable to verify
-Return
-Unable to continue
-Please use recovery phrase to cancel all the other pending request
-You do not have any emergency contact
-You have not created any MYKEY account
-Cancel
-View
-Select Emergency Contact
-Need %@ contact(s) to agree
-Click to verify your identity
-Proceeding, please wait
-Approved
-Rejected, verify again
-Verification failed
-Please verify identity on weekdays %@-%@
-We have received your request
-PROCESSING NOW
-You can get verified by %@ more contact(s)
-You have completed all verifications
-Return
-Missing KYC information. Please contact MYKEY Lab to proceed.
-Ok
-Awaiting contacts proceed
-Unable to cancel request initiated within 3 days
-Unable to cancel request which is about to be effective soon
-Failed to submit request. Please try again.
-Video Verification
-Calling operator\nPlease wait...
-Connected
-Service busy, please try again later
-Verification completed
-No password
-No password
-Please go to the settings to delete account, then sign in and choose to replace the recovery phrase with the emergency contact.
-Cancel
-Delete Account
-Video calling
-You cannot get verified from the emergency contact if quit now
-Cancel
-Quit
+Sending…
+Please wait
+Click again to exit
+Coming soon
+Wrong password
+Transfer to this exchange is not supported
+Send transaction failed, please try again.
+Server error, please try again later.
+Do not repeat the verification action
+ Do not repeat to sign-up
+Oops. Something went wrong. Please try again later. [%@]
+Wrong format
+Verification too frequent
+The identity has been registered. One verification per identity only.
+Copied
+Please reset account
+Please unfreeze account
 Please wait until new recovery phrase takes effect
 Too many times for liveness check, please try again tomorrow.
-Send %@ to %@
-This application requires permission from %@
-Call contract action %@ -> %@
+Transaction overtime, please try again
+Insufficient balance
+Failure due to "%@"
+The account already exists and cannot be imported repeatedly
+Network credits is not enough to send transaction
+Pull to refresh
+Release to refresh
+Loading
+Loading
+Loading completed
+Please wait
+Done
+Failed
+Loading…
+No more data
+New version available
+Update
+Install
+Updating
+Failed to download update files
+Download successful
+Updating %@&&
+Downloading version: %@
+Reboot
+Close
 Click here if any problem occurred
+Please try again later
+Cancel
+Confirm
+Camera
+Album
+free(%@/%@)
+free
+Please update to the latest version of MYKEY
+Ethereum
+EOS
+Click to get rewards
 You have not created any MYKEY account
 Create MYKEY Account
 Cancel
 Continue
-%@ wants to bind your account
+Authorize %@ to bind your MYKEY account
 account
-Auth Bind
+Authorize to bind
 Failed in authorization, please check MYKEY account status.
 Authorized
 Cancel
 Perform Operation
-Auth Perform
-Send %@ to %@ (%@)
+Authorize to perform
+Send %@ to %@
 This application requires permission from %@
-Action %@ -> %@ (%@)
+Action %@ -> %@
 Cancel
 Login Account
-Auth Login
-The application will gain the following permission
-• Get open information of the account %@
+Authorize to login
+The application will get  the following permission
+Public information of %@
+Passwordless Authorize
+Switch
+Current Account
+Action details
+Account not available
+No need to confirm before leaving MYKEY
 The MYKEY account has been bound to another %@ account
 The %@ account has been bound to another MYKEY account
 The %@ account has not been bound to MYKEY
@@ -639,77 +696,317 @@ Return
 QR code expired
 MYKEY has not been installed yet
 About MYKEY
-No Emergency Contact
-Emergency Contact can help you replace recovery phrase and finish account management request instantly
-Feature of adding contact is not ready yet
-The memo is filled according to the last transaction. Please confirm first.
-This is a contract account, please confirm that memo is required or not.
+All Accounts
+Up to %@ accounts can be added
+Add Account
+10 accounts can be added, in which only 1 verified account allowed.
+Create MYKEY Account
+Import MYKEY Account
+Switch Account
+A verified account found on this device. Cannot add another verified account.
+The last account creation is unfinished. Do you want to continue?
+Continue
+Restart
+No account found
+Please create or import account
+Cancel
+Continue
+Please wait
+Enabling %@ feature
+Close
+%@ feature has been enabled
+Close
+Unable to open
+Please enable %@ feature to continue
+Cancel
+Enable
+Enable %@ Account
+Next
+Account management is not accessible when enabling new blockchain address
+Please complete all the pending account request to enable new blockchain account
+%@ feature has been enabled
+Close
+Sign up or import account
+Register or import account
+Key to Digital Life
+Sign Up for MYKEY
+Import Account
+Continue
+Restart
+Cancel
+·  v%@  ·
+Sign Up for MYKEY
+Free sign-up requires verification, and will enable account security protection.
+MYKEY Lab will be the default %@
+emergency contact
+I agree to
+&#160;User Agreement
+Please agree to the User Agreement first
+Free Sign-up
+Paid Sign-up
+Free quota is full, please choose paid sign-up
+Paid Sign-up
+Use redeem code to sign up for MYKEY.
+No default %@
+Confirm
+Buy Redeem Code
+Redeem code does not exist
+Customer service WeChat: %@
+Choose Nationality
+Chinese Mainland
+South Korean
+All countries and regions
+All Countries and Regions
+search
+Next
+Verification
+Please use
+passport
+ID card
+driver license
+bank card
+ID Number
+Please input
+ID Document
+The file upload limit is 10 MB. Please upload a photo of the front side of identification. The photo should be bright and clear.
+CLICK TO UPLOAD
+Video Verificaction
+The video must be recorded by document owner
+CLICK TO VERIFY
+Next
+Verifying identity
+please wait
+You can choose paid sign-up if failed to pass verification
+Close
+Paid Sign-up
+Account created
+Verification failed
+Possible causes: %@
+Welcome to the world of Blockchain
+MYKEY Account
+Enter Wallet
+Continue
+Free quota was full
+Return
+Enable Blockchain Feature
+Choose the blockchain to enable
+Related blockchain must be enabled to continue
+Require credits $%@
+Next
+Enable Later
+I agree to
+&#160;User Agreement
+Set EOS Address
+New EOS Account
+A maximum of 12 characters length consisting of lowercase letter a-z and number 1-5
+A maximum of 12 characters length consisting of lowercase letter a-z and number 1-5
+address is used
+address is available
+please wait…
+No internet connection or slow, please check
+Next
+Check failed, please retry
+Retry
+I agree to
+&#160;User Agreement
+Invite Code
+Optional, 6 digits length
+Invalid invite code
+Valid invite code
+Set Password
+The correct password should be 8-20 characters in length and a combination of 2 or more types in number, capital or lowercase letters and symbols.
+Password
+Confirm password
+Wrong password format
+Password doesn’t match
+Next
+Enabling blockchain
+Please wait…
+Please wait, about 5 minutes
+Return
+Confirm to Enable
+Successfully enabled
+Failed to enable
+Please try again
+Try Again
+Address is used
+Try other address
+Redeem code is expired
+Enter redeem code
+Free quota is full
+Last step
+%@ address
+Please input the password you just set
+Wrong password. The correct password should be 8-20 characters in length and a combination of 2 or more types in number, capital or lowercase letters and symbols.
+Done
+Forget password?
+EXPORT RECOVERY PHRASE
+For account security, please export
+The recovery phrase is used to import and manage account. Losing it may cause account risks.
+Backup Recovery Phrase
+Transcribe 2 copies on paper and keep them in a safe place
+I want to use English phrase
+I want to use Chinese phrase
+Next
+Backup Later
+It's risky to take a screenshot of the recovery phrase. Please delete it and write down the recovery phrase for account security.
+OK
+Copy New Recovery Phrase
+Attention
+The new recovery phrase has not taken effect at this time. Please follow the instructions to complete.
+Confirm Recovery Phrase
+Please adjust recovery phrase in correct order
+Confirm
+Skip
+Incorrect recovery phrase
+Import MYKEY Account
+Please select a login method
+Import from old phone
+Import by recovery phrase
+Import via emergency contact
 Immediate
 Up to 7 days
 30 days
-How should I import
+How to choose import method
 Please import by recovery phrase if you have it
 Cancel
 Continue
-Requires&#160;
-video verification
-ID card
-&#160;and&#160;
-Service time: %@-%@ weekdays
-Please prepare the ID card which is required during the verification
+No recovery phrase or lost
+Account recovering will immediately freeze the initial account. It is recommended to import from old phone if you want to change the phone.
 Cancel
 Continue
-Details
-Verify
-Raw data of contract action
-Replacing recovery phrase,
-Re-granting account,
-Unfreezing account,
-Restoring account,
-&#160;click to verify identity
-&#160;please await further proceeding
-&#160;effective on %@
-Click to re-grant to use this account
-The account is at risk, click to manage
-%@ pending request, click to manage
-&#160;please wait&#8230;
-Success
-Warning
-Account Deleted
-View
+Sync from the original device
+Scan all QR codes
+QR Code %@ was scanned
+Next
+%@/%@
+Password or QR codes is incorrect
+Invalid QR code
+QR codes expired, please quit and try again
+Please upgrade MYKEY to the latest version on both devices
+Synchronization Done
+You have successfully synchronized your account from the original device. The new device password is the same as the original one, and the original device can still be used normally.
+Done
+The QR code of the sync device contains your account information, and screenshot may result in property damage.
+Deleting MYKEY before exporting recovery phrase may result in account loss
+The recovery phrase can be exported via “Me” > “Manage Account”
+Cancel
+Confirm Skip (%@)
+Do you want to quit?
+You can continue to create account later
+Cancel
+Quit
+Choose How To Enable
+Enable Account: %@
+No worry about losing the recovery phrase of verified account. We do not collect and save user privacy data.
+Verification (FREE)
+once per person
+It requires no verification to enable account by activation code. The recovery phrase cannot be retrieved if lost.
+No Verification
+Powered by
+
+Free quota is full, please use activation code.
+Creating account
+Please wait
+Account is created
+EOS Account
+Welcome to the world of Blockchain
+Enter
+Failed to create account
+Please try again
+Retry
+The name is used
+Try other names
+Back
+Waiting to enable account
 Close
-Verify
-Re-grant
-The account %@ is under restoring and cannot be used meanwhile.
-Please identify yourself to your emergency contact to restore the account %@.
-The account %@ is restored and can be used now.
-Restoring account for %@ was initiated on another device. Please check if the recovery phrase is leaked.
-The account %@ is restored. Please import account if you want to use it.
-Please identify yourself to your emergency contact to replace the recovery phrase of %@.
-The recovery phrase of %@ is replaced. Please re-grant account to use it.
-The recovery phrase of %@ is replaced.
-Replacing recovery phrase of %@ was initiated on another device. Please check if the recovery phrase is leaked.
-The recovery phrase of %@ is replaced. Please import account if you want to use it.
-The account %@ is re-granted and can be used now.
-Re-granting account of %@ was initiated on another device. Please check if the recovery phrase is leaked.
-The account %@ is re-granted. Please import account if you want to use it.
-The account %@ is unfreezed and can be used now.
-Unfreezing account of %@ was initiated on another device. Please check if the recovery phrase is leaked.
-The account %@ is unfreezed. Please check if the recovery phrase is leaked.
-The account %@ is frozen and unable to be used.
-No verification, no default emergency contact
-Use Activation Code
-Please enter activation code
-Activate
-How to get code
-The code not exist
-Free quota is full, please use activation code to open
-Account is frozen
-Unfreeze account first if you want to use it
+Return
+Messages
+Account
+System Messages
+$%@ subsidized
+How to Get More Network Credits
+Transaction ID
+View transaction on blockchain explorer
+Amount
+top up
+task reward
+Actual Paid
+$%@ subsidized by MYKEY
+Payable
+Bought %@B
+RAM
+View transaction
+%@ failed, click to retry
+Request failed, please retry
+Retry
+Request failed, click to retry
+Pending
+Fingerprint payment was off
+The fingerprint registered in the device has changed. Please enter the password to enable it again.
+FaceID payment was off
+The FaceID registered in the device has changed. Please enter the password to enable it again.
+Enter Password
+Confirm
+Skip
+Raw data of contract action
+Delete Account
+All local account data will be cleared.
+Etherscan
+Bloks
+Attempts too frequent, please try again later
+Mining suspended, please wait
+Your Account
+Get invite code
+Cost:%@
+Failed to obtain app operation data
+Set gas limit to 23300 when sending ETH to MYKEY from other wallets
+Too many transactions sent, please wait
+Insufficient network credits, please top up first
+Top Up
 Cancel
-Unfreeze
-Transaction overtime, please try again
-Restoring account
-You are unable to transfer or use dapp until account is restored.
+Confirm
+Transaction sent
+Video Verificaction
+Please operate in a well-lit environment and place your face inside the frame
+Click Start, stay still and wait for 5 seconds to complete
+Start
+Face could not be verified
+Unable to detect face in the image
+Image is altered or photoshopped
+Copy of the image is found on web
+Image of the face not found on the document
+Document originality could not be verified
+Number on the document does not match
+Country on the document could not be verified
+Document does not match the provided options
+Face on the document does not match with the camera image
+Document has expired
+Document is not clearly displayed
+Verification failed due to other causes
+Verification failed
+Unable to recognize ID document
+ID document has expired
+Face does not match with ID document
+Face does not match with photo from public security agency
+No valid ID photo is submitted
+Not the owner of the ID document
+Face data is not found from public security agency
+Could not compare due to public security network error
+Token invalid or has expired
+User name does not match with ID number
+ID number does not exist
+ID number is invalid
+Verification has been approved, please do not submit again
+Not the owner of the ID document
+Not the owner of the ID document
+No face photo from public security agency
+Unable to continue due to abnormal device environment
+Verify Identity
+Verify ID Document Number
+Please enter ID number provided for “Sign-up”
 Cancel
-Examine
+Confirm
+System Message
+Close
+Details
