@@ -82,6 +82,8 @@ func convertToAndroidAndIOS() {
 	elementKeyLines, err := tool.ReadLines("./source/element_key.txt")
 	cnLines, err := tool.ReadLines("./source/cn.txt")
 	enLines, err := tool.ReadLines("./source/en.txt")
+	riBenLines, err := tool.ReadLines("./source/riben.txt")
+	hanGuoLines, err := tool.ReadLines("./source/hanguo.txt")
 	if err != nil {
 		log.Printf("read file error, %s", err)
 		return
@@ -90,11 +92,17 @@ func convertToAndroidAndIOS() {
 	iosChineseLines := make([]string, 0)
 	androidEnglishLines := make([]string, 0)
 	iosEnglishLines := make([]string, 0)
+	androidRiBenLines := make([]string, 0)
+	iosRiBenLines := make([]string, 0)
+	androidHanGuoLines := make([]string, 0)
+	iosHanGuoLines := make([]string, 0)
 	for i := 1; i < len(pageLines); i++ {
 		key := strings.TrimSpace(pageLines[i]) + "." + strings.TrimSpace(elementLines[i]) + "." + strings.TrimSpace(elementKeyLines[i])
 		keyIos := strings.TrimSpace(pageLines[i]) + "_" + strings.TrimSpace(elementLines[i]) + "_" + strings.TrimSpace(elementKeyLines[i])
 		chineseValue := strings.TrimSpace(cnLines[i])
 		englishValue := strings.TrimSpace(enLines[i])
+		riBenValue := strings.TrimSpace(riBenLines[i])
+		hanGuoValue := strings.TrimSpace(hanGuoLines[i])
 		log.Println("key:", key)
 		//if tools.ContrainPercentSign(chineseValue) || tools.ContrainPercentSign(englishValue) {
 		//	androidChineseLines = append(androidChineseLines, fmt.Sprintf(AndroidFormatFalse, key, getAndroidStr(chineseValue)))
@@ -103,16 +111,33 @@ func convertToAndroidAndIOS() {
 		//	androidChineseLines = append(androidChineseLines, fmt.Sprintf(AndroidFormat, key, getAndroidStr(chineseValue)))
 		//	androidEnglishLines = append(androidEnglishLines, fmt.Sprintf(AndroidFormat, key, getAndroidStr(englishValue)))
 		//}
-		androidChineseLines = append(androidChineseLines, fmt.Sprintf(AndroidFormat, key, getAndroidStr(chineseValue)))
-		androidEnglishLines = append(androidEnglishLines, fmt.Sprintf(AndroidFormat, key, getAndroidStr(englishValue)))
+		if getAndroidStr(chineseValue) != "" {
+			androidChineseLines = append(androidChineseLines, fmt.Sprintf(AndroidFormat, key, getAndroidStr(chineseValue)))
+		}
+		if getAndroidStr(englishValue) != "" {
+			androidEnglishLines = append(androidEnglishLines, fmt.Sprintf(AndroidFormat, key, getAndroidStr(englishValue)))
+		}
+		if getAndroidStr(riBenValue) != "" {
+			androidRiBenLines = append(androidRiBenLines, fmt.Sprintf(AndroidFormat, key, getAndroidStr(riBenValue)))
+		}
+		if getAndroidStr(hanGuoValue) != "" {
+			androidHanGuoLines = append(androidHanGuoLines, fmt.Sprintf(AndroidFormat, key, getAndroidStr(hanGuoValue)))
+		}
 
 		iosChineseLines = append(iosChineseLines, fmt.Sprintf(IosFormat, keyIos, getIosStr(chineseValue)))
 		iosEnglishLines = append(iosEnglishLines, fmt.Sprintf(IosFormat, keyIos, getIosStr(englishValue)))
+		iosRiBenLines = append(iosRiBenLines, fmt.Sprintf(IosFormat, keyIos, getIosStr(riBenValue)))
+		iosHanGuoLines = append(iosHanGuoLines, fmt.Sprintf(IosFormat, keyIos, getIosStr(hanGuoValue)))
 	}
+	os.MkdirAll("./output/", os.ModePerm)
 	WriteToFile("./output/android_cn.txt", androidChineseLines)
 	WriteToFile("./output/android_en.txt", androidEnglishLines)
+	WriteToFile("./output/android_riben.txt", androidRiBenLines)
+	WriteToFile("./output/android_hanguo.txt", androidHanGuoLines)
 	WriteToFile("./output/ios_cn.txt", iosChineseLines)
 	WriteToFile("./output/ios_en.txt", iosEnglishLines)
+	WriteToFile("./output/ios_riben.txt", iosRiBenLines)
+	WriteToFile("./output/ios_hanguo.txt", iosHanGuoLines)
 }
 
 func getCVSEnList() []string {
@@ -180,6 +205,13 @@ func getAndroidStr(value string) string {
 	if strings.Contains(value, "####-%%") {
 		// 再替换回来
 		value = strings.Replace(value, "####-%%", "&#8230;", 100)
+	}
+	// 尖括号转义
+	if strings.Contains(value, "<") {
+		value = strings.Replace(value, "<", "&lt;", 100)
+	}
+	if strings.Contains(value, ">") {
+		value = strings.Replace(value, ">", "&gt;", 100)
 	}
 	if !strings.Contains(value, "%@") {
 		return value

@@ -887,40 +887,6 @@ Please upgrade MYKEY to the latest version on both devices
 Synchronization Done
 You have successfully synchronized your account from the original device. The new device password is the same as the original one, and the original device can still be used normally.
 Done
-The QR code of the sync device contains your account information, and screenshot may result in property damage.
-Deleting MYKEY before exporting recovery phrase may result in account loss
-The recovery phrase can be exported via “Me” > “Manage Account”
-Cancel
-Confirm Skip (%@)
-Do you want to quit?
-You can continue to create account later
-Cancel
-Quit
-Choose How To Enable
-Enable Account: %@
-No worry about losing the recovery phrase of verified account. We do not collect and save user privacy data.
-Verification (FREE)
-once per person
-It requires no verification to enable account by activation code. The recovery phrase cannot be retrieved if lost.
-No Verification
-Powered by
-
-Free quota is full, please use activation code.
-Creating account
-Please wait
-Account is created
-EOS Account
-Welcome to the world of Blockchain
-Enter
-Failed to create account
-Please try again
-Retry
-The name is used
-Try other names
-Back
-Waiting to enable account
-Close
-Return
 Messages
 Account
 System Messages
