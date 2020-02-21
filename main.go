@@ -124,10 +124,18 @@ func convertToAndroidAndIOS() {
 			androidHanGuoLines = append(androidHanGuoLines, fmt.Sprintf(AndroidFormat, key, getAndroidStr(hanGuoValue)))
 		}
 
-		iosChineseLines = append(iosChineseLines, fmt.Sprintf(IosFormat, keyIos, getIosStr(chineseValue)))
-		iosEnglishLines = append(iosEnglishLines, fmt.Sprintf(IosFormat, keyIos, getIosStr(englishValue)))
-		iosRiBenLines = append(iosRiBenLines, fmt.Sprintf(IosFormat, keyIos, getIosStr(riBenValue)))
-		iosHanGuoLines = append(iosHanGuoLines, fmt.Sprintf(IosFormat, keyIos, getIosStr(hanGuoValue)))
+		if getIosStr(chineseValue) != "" {
+			iosChineseLines = append(iosChineseLines, fmt.Sprintf(IosFormat, keyIos, getIosStr(chineseValue)))
+		}
+		if getIosStr(englishValue) != "" {
+			iosEnglishLines = append(iosEnglishLines, fmt.Sprintf(IosFormat, keyIos, getIosStr(englishValue)))
+		}
+		if getIosStr(riBenValue) != "" {
+			iosRiBenLines = append(iosRiBenLines, fmt.Sprintf(IosFormat, keyIos, getIosStr(riBenValue)))
+		}
+		if getIosStr(hanGuoValue) != "" {
+			iosHanGuoLines = append(iosHanGuoLines, fmt.Sprintf(IosFormat, keyIos, getIosStr(hanGuoValue)))
+		}
 	}
 	os.MkdirAll("./output/", os.ModePerm)
 	WriteToFile("./output/android_cn.txt", androidChineseLines)
@@ -224,6 +232,9 @@ func getAndroidStr(value string) string {
 }
 
 func getIosStr(value string) string {
+	if strings.Contains(value, "\"") {
+		value = strings.Replace(value, "\"", "\\\"", 100)
+	}
 	if strings.Contains(value, "&&") {
 		if strings.Contains(value, "%@") {
 			value = strings.Replace(value, "&&", "%", 100)
