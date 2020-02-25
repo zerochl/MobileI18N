@@ -237,9 +237,9 @@ func getIosStr(value string) string {
 	}
 	if strings.Contains(value, "&&") {
 		if strings.Contains(value, "%@") {
-			value = strings.Replace(value, "&&", "%", 100)
+			value = strings.Replace(value, "&&", "%%", 100)
 		} else {
-			value = strings.Replace(value, "&&", "%", 100)
+			value = strings.Replace(value, "&&", "%%", 100)
 		}
 	}
 	if strings.Contains(value, "&#160;") {
